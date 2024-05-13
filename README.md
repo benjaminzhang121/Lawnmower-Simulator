@@ -6,3 +6,5 @@
  - onEvent actions
  - animations for both playable and non-playable objects
  - cutscenes and credits
+---
+[![Watch the video](https://youtu.be/djGmNwlmVlc)]
