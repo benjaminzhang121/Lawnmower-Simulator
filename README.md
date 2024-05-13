@@ -8,4 +8,5 @@
  - cutscenes and credits
 ---
 YouTube video guide
+---
 [![Watch this video](https://img.youtube.com/vi/djGmNwlmVlc/0.jpg)](https://www.youtube.com/watch?v=djGmNwlmVlc)
