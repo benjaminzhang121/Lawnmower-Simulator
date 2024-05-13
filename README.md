@@ -1,2 +1,8 @@
 # Lawnmower Simulator
- Education game about the dangers of NPK Fertilizers
+ An education game about the dangers of NPK Fertilizers using GameMaker Studio 2
+ ---
+ Consists of:
+ - dialogue creation and animation
+ - onEvent actions
+ - animations for both playable and non-playable objects
+ - cutscenes and credits

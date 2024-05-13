@@ -1,0 +1,2 @@
+///destroy if object touches
+
