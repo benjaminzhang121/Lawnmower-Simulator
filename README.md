@@ -7,4 +7,5 @@
  - animations for both playable and non-playable objects
  - cutscenes and credits
 ---
-[![Watch the video](<iframe width="560" height="315" src="https://www.youtube.com/embed/djGmNwlmVlc?si=05Df3HC6CDkSDuQK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)]
+[![Watch the video](![image](https://github.com/benjaminzhang121/Lawnmower-Simulator/assets/136733521/573dfa0f-a532-433c-9e86-903f537da226)
+)](www.youtube.com/embed/djGmNwlmVlc?si=05Df3HC6CDkSDuQK)
